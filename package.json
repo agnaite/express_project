@@ -1,0 +1,22 @@
+{
+  "name": "express_test_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnaite/express_project.git"
+  },
+  "author": "Agne Klimaite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnaite/express_project/issues"
+  },
+  "homepage": "https://github.com/agnaite/express_project#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
